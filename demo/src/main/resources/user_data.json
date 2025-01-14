@@ -1,0 +1,18 @@
+[
+    {
+        "firstName": "Anton",
+        "lastName": "Godunov",
+        "age": 25,
+        "email": "ag@gmail.com",
+        "salary": 10000,
+        "department": "Legal"
+    },
+    {
+        "firstName": "Boris",
+        "lastName": "Makarov",
+        "age": 27,
+        "email": "bm@yandex.ru",
+        "salary": 8000,
+        "department": "Illegal"
+    }
+]

@@ -1,0 +1,6 @@
+{
+    "browserName": "chrome",
+    "url": "https://demoqa.com/",
+    "options": ["--incognito", "--lang=en"],
+    "defaultWaitTime": 2
+}
